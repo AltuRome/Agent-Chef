@@ -1,6 +1,6 @@
 # Personal Chef Agent
 
-A `multimodal` with `memory` personalised Chef Agent. Built using:
+A `multimodal` with `memory` personalised Chef Agent with the capability of `Web Search`. Built using:
 - [GPT-5-Nano](https://developers.openai.com/api/docs/models/gpt-5-nano)
 - [LangChain](https://github.com/langchain-ai/langchain)
 
